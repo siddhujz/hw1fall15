@@ -13,11 +13,11 @@ framework, known as `Test::Unit`, the test files would be under
 `test/`.)
 
 The "starter code" for this assignment is in `lib/ruby_intro.rb`; when you're all done, you
-can submit this single file to the ICON HW0 dropbox as follows:
+can submit this single file to the ICON HW1 dropbox as follows:
 1) in the Workspace menu along the left side of your Cloud9 window, right click on the
  lib/ruby_intro.rb file and select "download".  This will download the file from Cloud9
  to your local computer.
-2) Submit the downloaded file to the ICON HW0 dropbox.  
+2) Submit the downloaded file to the ICON HW1 dropbox.  
 
 The files`spec/part[123]_spec.rb` contain RSpec tests for each of the three
 parts.  For example, to test your answers to Part 1, use the command:
